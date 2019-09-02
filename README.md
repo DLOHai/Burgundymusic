@@ -1,5 +1,6 @@
 # Burgundy project: Completing 'unfinished' Maestro's musical work
 sponsored by Deep Learning College @Modulabs, Seoul, South Korea
+contributor: Jinwoo Oh, Wonyoung Seo, Sumin Han
 
 ## Model
 
@@ -13,7 +14,7 @@ sponsored by Deep Learning College @Modulabs, Seoul, South Korea
 
 ## Data
 
-To extend Chopin’s unfinished `piano sonata, Canon inF minor, B. 129a`, we trained the model with Chopin's other works in MAESTRO dataset.
+To extend Chopin’s unfinished `piano sonata, Canon in F minor, B. 129a`, we trained the model with Chopin's other works in MAESTRO dataset.
 
 
 ## Train
