@@ -2,14 +2,15 @@
 sponsored by Deep Learning College @Modulabs, Seoul, South Korea
 contributor: Jinwoo Oh, Wonyoung Seo, Sumin Han
 
+
 ## Model
 
 - Music Transformer: Generating Music with Long-Term Structure
-- 2019 ICLR, Cheng-Zhi Anna Huang, Google Brain
+- 2019 ICLR, Cheng-Zhi Anna Huang et al., Google Brain
 - [paper link](https://arxiv.org/abs/1809.04281) 
 - [paper review](https://github.com/SSUHan/PaparReviews/issues/13)
 - Re-producer : [Yang-Kichang](https://github.com/jason9693/MusicTransformer-tensorflow2.0/)
-- Customizer: Jinwoo OH
+- Customizer: Jinwoo Oh
 
 
 ## Data
@@ -34,4 +35,5 @@ To extend Chopin’s unfinished `piano sonata, Canon in F minor, B. 129a`, we tr
 * seqence length : 2048
 * embedding dim : 256 (dh = 256 / 4 = 64)
 * batch size : 1
+
   Because Our memory didn't statisfy the requirement of model (Batch_size = 2), we define it 1.
