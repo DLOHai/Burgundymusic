@@ -6,7 +6,7 @@ asn1crypto==0.24.0
 astor==0.8.0
 boto3==1.9.115
 botocore==1.12.180
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.1.1
